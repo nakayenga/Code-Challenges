@@ -1,0 +1,13 @@
+lname_array = ['n', 'a', 'k', 'a', 'y', 'e', 'n', 'g', 'a']
+
+print(lname_array[::-1])
+print(lname_array[::2])
+print(lname_array[1::2])
+print(lname_array[1:5])
+print(lname_array[-1])
+print(lname_array[-3:])
+print(lname_array[:-3])
+print(lname_array[2:-2])
+print(lname_array[::-1])
+print(lname_array[::-2])
+print(lname_array[1:-1:2])
